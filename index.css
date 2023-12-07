@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#content{
+    border: 2px solid black;
+    margin-top: 100px;
+    height: 480px;
+}
+#button{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+
+}
+button{
+    margin: 4px;
+    height: 20px;
+}
